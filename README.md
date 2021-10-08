@@ -77,3 +77,19 @@ For your PR to count it must be:
 ***
 
 # CSE-fifth-semester
+
+## Syllabus
+
+1. [Compiler Design]()
+2. [Data Communication]()
+3. [Microprocessor and Microcontrollers]()
+4. [Object Oriented System Design]()
+5. [Operating System]()
+
+## Materials and useful limks
+
+1. [Compiler Design]()
+2. [Data Communication]()
+3. [Microprocessor and Microcontrollers]()
+4. [Object Oriented System Design]()
+5. [Operating System]()
