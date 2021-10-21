@@ -1,4 +1,5 @@
 1.1.      State the addressing modes given in following instructions.
+           
            (i) ANA  M       
            (ii) RIM    
            (iii) CMA  
@@ -158,14 +159,14 @@ HI
 
 12. State the number of T states required and type of flags affected in the execution of the following instructions of 8085 microprocessor.
 
-(i)ANA A    
-(ii) ANA  M    
-(iii) CMP  B     
-(iv) STC      
-(v) CMA    
-(vi) MVI  M, data      
-(vii) LDA 2000H
-(viii) JMP 1000H
+           (i) ANA A    
+           (ii) ANA  M    
+           (iii) CMP  B     
+           (iv) STC      
+           (v) CMA    
+           (vi) MVI  M, data      
+           (vii) LDA 2000H
+           (viii) JMP 1000H
 
 **(2 Points)**
 
@@ -222,13 +223,13 @@ HI
 
 16. What will be the value of accumulator and flags (CY, S, P and Z), after the execution of the following program.
 
- MVI D, 7F H
- MVI C, 3E H
- MOV A, C
- RLC
- RLC
- ANA D
- HLT
+            MVI D, 7F H
+            MVI C, 3E H
+            MOV A, C
+            RLC
+            RLC
+            ANA D
+            HLT
  
 **(1 Point)**
 
@@ -243,20 +244,20 @@ HI
 
 17. What will be the value of B-register after the following program is executed?
 
- MVI A, 07 H
- STC
- CMC
- RAL
- MOV B, A
- STC
- CMC
- RAL
- STC
- CMC
- RAL
- ADD B
- MOVB, A
- HLT
+            MVI A, 07 H
+            STC
+            CMC
+            RAL
+            MOV B, A
+            STC
+            CMC
+            RAL
+            STC
+            CMC
+            RAL
+            ADD B
+            MOVB, A
+            HLT
  
 **(1 Point)**
 
@@ -271,11 +272,11 @@ HI
 
 18. What will be contents of memory location 2500 H and flags (CY, S, P and Z), after the execution of the following program?
 
- MVI C, C8 H
- MVI A, 11 H
- ADD C
- STA 2500 H
- HLT
+            MVI C, C8 H
+            MVI A, 11 H
+            ADD C
+            STA 2500 H
+            HLT
  
 **(1 Point)**
 
