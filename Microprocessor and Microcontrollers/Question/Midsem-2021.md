@@ -109,7 +109,9 @@
 ---
 
 
-10. Write a delay subroutine program for 8085 microprocessor to introduce a time delay of 1 millisec using only one register. Let the system frequency is 2 MHz.
+10. Write a delay subroutine program for 8085 microprocessor to introduce a time delay of 1 millisec using only one register. 
+    Let the system frequency is 2 MHz.
+    
 **(1 Point)**
 
 **Answer:**
@@ -119,7 +121,10 @@
 ---
 
 
-11. What is the function of the instruction RRC? Suppose A=93H and CY=0. After the execution of this instruction, what will be the content of accumulator and carry flag?
+11. What is the function of the instruction RRC? 
+    Suppose A=93H and CY=0. 
+    After the execution of this instruction, what will be the content of accumulator and carry flag?
+    
 **(1 Point)**
 
 **Answer:**
@@ -129,9 +134,17 @@
 ---
 
 
-12.State the number of T states required and type of flags affected in the execution of the following instructions of 8085 microprocessor.
-(i)ANA A    (ii) ANA  M    (iii) CMP  B     (iv) STC      (v) CMA    (vi) MVI  M, data      (vii) LDA 2000H
+12. State the number of T states required and type of flags affected in the execution of the following instructions of 8085 microprocessor.
+
+(i)ANA A    
+(ii) ANA  M    
+(iii) CMP  B     
+(iv) STC      
+(v) CMA    
+(vi) MVI  M, data      
+(vii) LDA 2000H
 (viii) JMP 1000H
+
 **(2 Points)**
 
 **Answer:**
@@ -141,7 +154,10 @@
 ---
 
 
-13.What maximum delay can be introduced by the subroutine program using a register pair (DE)? Let the system clock frequency is 3 MHz. Write the delay routine. 
+13. What maximum delay can be introduced by the subroutine program using a register pair (DE)? 
+    Let the system clock frequency is 3 MHz. 
+    Write the delay routine. 
+    
 **(2 Points)**
 
 **Answer:**
@@ -151,7 +167,9 @@
 ---
 
 
-14.Suppose, it is desired to clear the accumulator contents of 8085 microprocessor. Explain the four possible instructions for this purpose.
+14. Suppose, it is desired to clear the accumulator contents of 8085 microprocessor. 
+    Explain the four possible instructions for this purpose.
+    
 **(1 Point)**
 
 **Answer:**
@@ -162,6 +180,7 @@
 
 
 15. Write a set of instructions in 8085 processor to exchange the contents of BC and HL register pairs.
+
 **(0.5 Points)**
 
 **Answer:**
@@ -171,16 +190,16 @@
 ---
 
 
-16.What will be the value of accumulator and flags (CY, S, P and Z), after the execution of the following
- program.
+16. What will be the value of accumulator and flags (CY, S, P and Z), after the execution of the following program.
 
-MVI D, 7F H
+ MVI D, 7F H
  MVI C, 3E H
  MOV A, C
  RLC
  RLC
  ANA D
  HLT
+ 
 **(1 Point)**
 
 **Answer:**
@@ -192,7 +211,7 @@ MVI D, 7F H
 
 17. What will be the value of B-register after the following program is executed?
 
-MVI A, 07 H
+ MVI A, 07 H
  STC
  CMC
  RAL
@@ -216,7 +235,7 @@ MVI A, 07 H
 ---
 
 
-18.What will be contents of memory location 2500 H and flags (CY, S, P and Z), after the execution of the following program?
+18. What will be contents of memory location 2500 H and flags (CY, S, P and Z), after the execution of the following program?
 
  MVI C, C8 H
  MVI A, 11 H
@@ -233,7 +252,8 @@ MVI A, 07 H
 ---
 
 
-19.What will be contents of accumulator and flags (CY, S, P and Z), after the execution of SUB D instruction? Suppose,  A = C3 H and D = 3D H.
+19. What will be contents of accumulator and flags (CY, S, P and Z), after the execution of SUB D instruction? Suppose,  A = C3 H and D = 3D H.
+
 **(1 Point)**
 
 **Answer:**
@@ -243,7 +263,8 @@ MVI A, 07 H
 ---
 
 
-20. Write the mnemonic of an instruction in 8085 microprocessor that will set bit 6 of the accumulator without changing any of the other bits in the register.Immersive Reader
+20. Write the mnemonic of an instruction in 8085 microprocessor that will set bit 6 of the accumulator without changing any of the other bits in the register.
+
 (0.5 Points)
 
 **Answer:**
