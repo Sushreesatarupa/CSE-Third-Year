@@ -74,7 +74,7 @@ HI
 
 
 6.  Each time when the data is loaded into stack, the Stack pointer gets______________. 
-    Conversely it is ___________­­­­­­­­­­­­­­ ­­­­­­when data is retrieved from stack.
+    Conversely it is ___________when data is retrieved from stack.
     
 **(0.5 Points)**
 
@@ -159,14 +159,14 @@ HI
 
 12. State the number of T states required and type of flags affected in the execution of the following instructions of 8085 microprocessor.
 
-           (i) ANA A    
-           (ii) ANA  M    
-           (iii) CMP  B     
-           (iv) STC      
-           (v) CMA    
-           (vi) MVI  M, data      
-           (vii) LDA 2000H
-           (viii) JMP 1000H
+           (i)        ANA A    
+           (ii)       ANA  M    
+           (iii)      CMP  B     
+           (iv)       STC      
+           (v)        CMA    
+           (vi)       MVI  M, data      
+           (vii)      LDA 2000H
+           (viii)     JMP 1000H
 
 **(2 Points)**
 
@@ -289,7 +289,8 @@ HI
 ---
 
 
-19. What will be contents of accumulator and flags (CY, S, P and Z), after the execution of SUB D instruction? Suppose,  A = C3 H and D = 3D H.
+19. What will be contents of accumulator and flags (CY, S, P and Z), after the execution of SUB D instruction?
+    Suppose,  A = C3 H and D = 3D H.
 
 **(1 Point)**
 
