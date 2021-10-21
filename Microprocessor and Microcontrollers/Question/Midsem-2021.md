@@ -10,77 +10,121 @@
            
 **(2 Points)**
 
-Enter your answer
+**Answer:**
+
+
 
 
 ---
 
 2. Write a set of instructions to enable RST 6.5 and disable RST7.5, RST 5.5.
+
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 3. What are the sequences of operations takes place when an interrupt signal is recognized in 8085 microprocessor?
+
 **(0.5 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 4. Explain the need to de-multiplex the bus AD0–AD7 in 8085 microprocessor
+
 **(0.5 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
-5. Write a set of instructions to transfer the contents of 8101H and 8100H to registers H and L respectively. Then store the HL content to memory location 9301H and 9300H respectively.
+5. Write a set of instructions to transfer the contents of 8101H and 8100H to registers H and L respectively. 
+   Then store the HL content to memory location 9301H and 9300H respectively.
+   
 **(0.5 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
-6.  Each time when the data is loaded into stack, the Stack pointer gets______________. Conversely it is ___________­­­­­­­­­­­­­­ ­­­­­­when data is retrieved from stack.
+6.  Each time when the data is loaded into stack, the Stack pointer gets______________. 
+    Conversely it is ___________­­­­­­­­­­­­­­ ­­­­­­when data is retrieved from stack.
+    
 **(0.5 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
-7.Write the set of instructions to load 50H and 60H in B and C registers respectively. Then, store the contents of B and C registers on the stack. 
+7. Write the set of instructions to load 50H and 60H in B and C registers respectively. 
+   Then, store the contents of B and C registers on the stack. 
+   
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
-8.Write the set of instructions to implement the Boolean equation D= (B+C) ∙ E, where B, C, D and E represents data in various registers of 8085.
+8. Write the set of instructions to implement the Boolean equation D= (B+C) ∙ E, where B, C, D and E represents data in various registers of 8085.
+
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
-9.How much time it will take to execute MVI C, 05H instruction? Assume, 8085 Microprocessor with 2MHz clock frequency.
+9. How much time it will take to execute MVI C, 05H instruction? 
+   Assume, 8085 Microprocessor with 2MHz clock frequency.
+
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 10. Write a delay subroutine program for 8085 microprocessor to introduce a time delay of 1 millisec using only one register. Let the system frequency is 2 MHz.
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 11. What is the function of the instruction RRC? Suppose A=93H and CY=0. After the execution of this instruction, what will be the content of accumulator and carry flag?
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
@@ -89,28 +133,40 @@ Enter your answer
 (i)ANA A    (ii) ANA  M    (iii) CMP  B     (iv) STC      (v) CMA    (vi) MVI  M, data      (vii) LDA 2000H
 (viii) JMP 1000H
 **(2 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 13.What maximum delay can be introduced by the subroutine program using a register pair (DE)? Let the system clock frequency is 3 MHz. Write the delay routine. 
 **(2 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 14.Suppose, it is desired to clear the accumulator contents of 8085 microprocessor. Explain the four possible instructions for this purpose.
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 15. Write a set of instructions in 8085 processor to exchange the contents of BC and HL register pairs.
 **(0.5 Points)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
@@ -126,7 +182,10 @@ MVI D, 7F H
  ANA D
  HLT
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
@@ -149,7 +208,10 @@ MVI A, 07 H
  HLT
  
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
@@ -163,20 +225,29 @@ Enter your answer
  HLT
  
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 19.What will be contents of accumulator and flags (CY, S, P and Z), after the execution of SUB D instruction? Suppose,  A = C3 H and D = 3D H.
 **(1 Point)**
-Enter your answer
+
+**Answer:**
+
+
 
 ---
 
 
 20. Write the mnemonic of an instruction in 8085 microprocessor that will set bit 6 of the accumulator without changing any of the other bits in the register.Immersive Reader
 (0.5 Points)
+
+**Answer:**
+
 
 ---
 
