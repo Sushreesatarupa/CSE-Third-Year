@@ -1,7 +1,15 @@
 1.1.      State the addressing modes given in following instructions.
-           (i) ANA  M       (ii) RIM    (iii) CMA  (iv) SHLD 2000H   (v) LDAX B     (vi) XCHG     
-           (vii) CMP M                (viii) DAA
+           (i) ANA  M       
+           (ii) RIM    
+           (iii) CMA  
+           (iv) SHLD 2000H   
+           (v) LDAX B     
+           (vi) XCHG     
+           (vii) CMP M                
+           (viii) DAA
+           
 **(2 Points)**
+
 Enter your answer
 
 
