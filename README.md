@@ -7,9 +7,9 @@
     </a> </h1>
 
 ***
-<centre>
+<center>
         ![image](https://user-images.githubusercontent.com/64991656/138487669-04d0baa2-77b9-47b9-abd8-1c967f7e6656.png)
-</centre>
+</center>
 
 ![image](https://user-images.githubusercontent.com/64991656/138487106-49ae338a-7238-45f9-9008-4bf4b5f36dd1.png)
 
