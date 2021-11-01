@@ -75,3 +75,11 @@ c. Implementation of Calculator using LEX/FLEX and YACC
     6. Word count program - one input file
     7. The I/O Structure of a Flex Scanner
 5. Parsing
+    1. Top-Down Parser
+        a) With BackTracking
+        b) Without Backtacking LL(1) parser
+    2. Bottom-Up Parser
+        a) LR(0)
+        b) SLR(1)
+        c) LALR(1)
+        d) CLR(1)
